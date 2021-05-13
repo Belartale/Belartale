@@ -9,24 +9,39 @@ Main technologies: Pug, SCSS, JavaScript, React, Redux, Node.js, Express.js.
 ✌️ My name is Arthur, I am 23 years old. I have been doing programming for about 1 years, trying out different libraries.
 
 🎓I have experience in adaptive layout, Mobile First, PUG and SCSS, Methodology BEM. I have JavaScript programming skills.
-
+<!--
 I’m currently working on my first app.
-
+-->
 
 ## 📈 GitHub Stats
 
 ![belartale GitHub Stats](https://github-readme-stats.vercel.app/api?username=belartale&count_private=true&hide=contribs&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belartale&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
+<!--
 ## Current projects
 ![some-text](https://user-images)
-
+-->
 
 
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
