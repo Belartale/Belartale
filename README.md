@@ -6,7 +6,7 @@ My technology stack: Pug, SCSS, JavaScript, React, Redux, Node.js, Express.js, M
 
 ## 😄 About me 
 
-✌️ My name is Arthur, I am 23 years old. I have been doing programming for about 1 years, trying out different libraries.
+✌️ My name is Arthur. I have been doing programming for about 1 years, trying out different libraries.
 
 🎓I have experience in adaptive layout, Mobile First, PUG and SCSS, Methodology BEM. I have JavaScript programming skills.
 <!--
