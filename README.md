@@ -2,7 +2,7 @@
 
 I bring order to the chaos, turn coffee into code, constantly develop.
 
-Main technologies: Pug, SCSS, JavaScript, React, Redux, Node.js, Express.js.
+My technology stack: Pug, SCSS, JavaScript, React, Redux, Node.js, Express.js, MongoDB.
 
 ## 😄 About me 
 
