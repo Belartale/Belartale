@@ -1,6 +1,6 @@
 # :raising_hand_man: Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=belartale) 
 
-I bring order to the chaos, turn coffee into code, automate processes, constantly develop
+I bring order to the chaos, turn coffee into code, constantly develop.
 
 Main technologies: Pug, SCSS, JavaScript, React, Redux, Node.js, Express.js.
 
