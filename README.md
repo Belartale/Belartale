@@ -2,20 +2,20 @@
 
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
-Main technologies: JavaScript, React, Redux.
+Main technologies: Pug, SCSS, JavaScript, React, Redux, Node.js, Express.js.
 
 ## 😄 About me 
 
 ✌️ My name is Arthur, I am 23 years old. I have been doing programming for about 1 years, trying out different libraries.
 
-🎓I have experience in cross-platform development, creating mobile applications, working with virtual and augmented reality, machine learning (recently, by the way, I participated in Yandex Data Science competitions), and I can also make adaptive layout, create an MVC application and deploy a server. In addition, I worked closely with game engines such as Unreal Engine and Unity.
+🎓I have experience in adaptive layout, Mobile First, PUG and SCSS, Methodology BEM. I have JavaScript programming skills.
 
 I’m currently working on my first app.
 
 
 ## 📈 GitHub Stats
 
-![belartale GitHub Stats](https://github-readme-stats.vercel.app/api?username=belartale&count_private=true&hide=contribs&show_icons=true&theme=radical)
+![belartale GitHub Stats](https://github-readme-stats.vercel.app/api?username=belartale&count_private=true&hide=contribs&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belartale&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
 ## Current projects
@@ -23,6 +23,10 @@ I’m currently working on my first app.
 
 
 
+
+<!--
+https://github.com/anuraghazra/github-readme-stats
+-->
 
 
 
