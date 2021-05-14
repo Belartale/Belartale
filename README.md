@@ -18,15 +18,14 @@ I’m currently working on my first app.
 ![belartale GitHub Stats](https://github-readme-stats.vercel.app/api?username=belartale&count_private=true&hide=contribs&show_icons=true&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belartale&count_private=true&hide=tsql&langs_count=7&theme=radical&layout=compact)
 
-<!--
-## Current projects
-![some-text](https://user-images)
--->
 
 
 
 <!--
 https://github.com/anuraghazra/github-readme-stats
+
+https://gist.github.com/rxaviers/7360908
+
 -->
 
 
