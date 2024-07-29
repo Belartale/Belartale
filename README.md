@@ -9,6 +9,15 @@ My technology stack: Pug, SCSS, JavaScript, React, Redux, Node.js, Express.js, M
 ✌️ My name is Arthur. I have been doing programming for about 2+ years, trying out different libraries.
 
 🎓I have experience in adaptive layout, Mobile First, PUG and SCSS, Methodology BEM. I have JavaScript programming skills.
+
+## 📞 Contacts:
+- E-mail: belartale@gmail.com
+- Linkedin: [https://www.linkedin.com/in/artur-bielan/](https://www.linkedin.com/in/artur-bielan/)
+- Phones: +4915124194409 (Germany) or +380963392097 (Ukraine)
+
+SUMMARY:
+Frontend (React) developer with 3 years of commercial experience. I am working with layout, adaptive, Mobile First, HTML, PUG, CSS, SASS/SCSS, JavaScript, TypeScript, React.js, Redux Toolkit, Redux Saga/Thunk, NPM, Git/GitHub, BEM, Webpack.js. Also I have beginner skills Node.js, Nest.js, Vite.js, Figma.
+
 <!--
 I’m currently working on my first app.
 -->
